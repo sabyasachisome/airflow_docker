@@ -1,0 +1,1155 @@
+[2021-07-04 00:47:09,977] {scheduler_job.py:182} INFO - Started process (PID=6631) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 00:47:09,985] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 00:47:09,990] {logging_mixin.py:104} INFO - [2021-07-04 00:47:09,990] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 00:47:10,043] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 00:47:10,088] {logging_mixin.py:104} INFO - [2021-07-04 00:47:10,087] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 00:47:10,142] {logging_mixin.py:104} INFO - [2021-07-04 00:47:10,141] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 00:47:10.138901+00:00
+[2021-07-04 00:47:10,166] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.203 seconds
+[2021-07-04 01:13:20,799] {scheduler_job.py:182} INFO - Started process (PID=6669) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:20,803] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:13:20,806] {logging_mixin.py:104} INFO - [2021-07-04 01:13:20,806] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:20,854] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:20,904] {logging_mixin.py:104} INFO - [2021-07-04 01:13:20,904] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:13:20,950] {logging_mixin.py:104} INFO - [2021-07-04 01:13:20,950] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:13:20.948337+00:00
+[2021-07-04 01:13:20,981] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.190 seconds
+[2021-07-04 01:13:51,033] {scheduler_job.py:182} INFO - Started process (PID=6708) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:51,037] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:13:51,039] {logging_mixin.py:104} INFO - [2021-07-04 01:13:51,038] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:51,070] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:13:51,105] {logging_mixin.py:104} INFO - [2021-07-04 01:13:51,104] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:13:51,141] {logging_mixin.py:104} INFO - [2021-07-04 01:13:51,140] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:13:51.139149+00:00
+[2021-07-04 01:13:51,157] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 01:14:21,947] {scheduler_job.py:182} INFO - Started process (PID=6735) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:21,950] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:14:21,952] {logging_mixin.py:104} INFO - [2021-07-04 01:14:21,951] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:21,984] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:22,019] {logging_mixin.py:104} INFO - [2021-07-04 01:14:22,019] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:14:22,053] {logging_mixin.py:104} INFO - [2021-07-04 01:14:22,052] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:14:22.051193+00:00
+[2021-07-04 01:14:22,069] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 01:14:52,970] {scheduler_job.py:182} INFO - Started process (PID=6762) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:52,975] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:14:52,977] {logging_mixin.py:104} INFO - [2021-07-04 01:14:52,976] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:53,009] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:14:53,043] {logging_mixin.py:104} INFO - [2021-07-04 01:14:53,043] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:14:53,076] {logging_mixin.py:104} INFO - [2021-07-04 01:14:53,075] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:14:53.074244+00:00
+[2021-07-04 01:14:53,091] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.127 seconds
+[2021-07-04 01:15:23,909] {scheduler_job.py:182} INFO - Started process (PID=6789) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:15:23,912] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:15:23,915] {logging_mixin.py:104} INFO - [2021-07-04 01:15:23,914] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:15:23,949] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:15:23,986] {logging_mixin.py:104} INFO - [2021-07-04 01:15:23,986] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:15:24,019] {logging_mixin.py:104} INFO - [2021-07-04 01:15:24,018] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:15:24.017181+00:00
+[2021-07-04 01:15:24,034] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.131 seconds
+[2021-07-04 01:43:29,260] {scheduler_job.py:182} INFO - Started process (PID=6817) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:43:29,264] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:43:29,266] {logging_mixin.py:104} INFO - [2021-07-04 01:43:29,266] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:43:29,306] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:43:29,349] {logging_mixin.py:104} INFO - [2021-07-04 01:43:29,349] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:43:29,389] {logging_mixin.py:104} INFO - [2021-07-04 01:43:29,388] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:43:29.386994+00:00
+[2021-07-04 01:43:29,407] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.156 seconds
+[2021-07-04 01:44:00,126] {scheduler_job.py:182} INFO - Started process (PID=6850) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:00,131] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:44:00,134] {logging_mixin.py:104} INFO - [2021-07-04 01:44:00,134] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:00,183] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:00,227] {logging_mixin.py:104} INFO - [2021-07-04 01:44:00,226] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:44:00,267] {logging_mixin.py:104} INFO - [2021-07-04 01:44:00,267] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:44:00.265454+00:00
+[2021-07-04 01:44:00,285] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.168 seconds
+[2021-07-04 01:44:31,061] {scheduler_job.py:182} INFO - Started process (PID=6879) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:31,064] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:44:31,066] {logging_mixin.py:104} INFO - [2021-07-04 01:44:31,066] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:31,107] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:44:31,145] {logging_mixin.py:104} INFO - [2021-07-04 01:44:31,145] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:44:31,181] {logging_mixin.py:104} INFO - [2021-07-04 01:44:31,181] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:44:31.179149+00:00
+[2021-07-04 01:44:31,197] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.142 seconds
+[2021-07-04 01:45:01,991] {scheduler_job.py:182} INFO - Started process (PID=6907) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:45:01,996] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 01:45:01,999] {logging_mixin.py:104} INFO - [2021-07-04 01:45:01,999] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:45:02,034] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 01:45:02,072] {logging_mixin.py:104} INFO - [2021-07-04 01:45:02,072] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 01:45:02,109] {logging_mixin.py:104} INFO - [2021-07-04 01:45:02,108] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 01:45:02.107033+00:00
+[2021-07-04 01:45:02,125] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.143 seconds
+[2021-07-04 02:01:46,858] {scheduler_job.py:182} INFO - Started process (PID=6932) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:01:46,862] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:01:46,869] {logging_mixin.py:104} INFO - [2021-07-04 02:01:46,868] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:01:46,923] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:01:46,972] {logging_mixin.py:104} INFO - [2021-07-04 02:01:46,971] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:01:47,047] {logging_mixin.py:104} INFO - [2021-07-04 02:01:47,046] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:01:47.044352+00:00
+[2021-07-04 02:01:47,076] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.224 seconds
+[2021-07-04 02:02:17,173] {scheduler_job.py:182} INFO - Started process (PID=6963) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:17,176] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:02:17,178] {logging_mixin.py:104} INFO - [2021-07-04 02:02:17,178] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:17,210] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:17,246] {logging_mixin.py:104} INFO - [2021-07-04 02:02:17,246] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:02:17,280] {logging_mixin.py:104} INFO - [2021-07-04 02:02:17,280] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:02:17.278839+00:00
+[2021-07-04 02:02:17,295] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:02:48,150] {scheduler_job.py:182} INFO - Started process (PID=6990) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:48,154] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:02:48,156] {logging_mixin.py:104} INFO - [2021-07-04 02:02:48,156] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:48,189] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:02:48,224] {logging_mixin.py:104} INFO - [2021-07-04 02:02:48,224] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:02:48,257] {logging_mixin.py:104} INFO - [2021-07-04 02:02:48,257] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:02:48.255654+00:00
+[2021-07-04 02:02:48,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:03:19,145] {scheduler_job.py:182} INFO - Started process (PID=7017) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:19,148] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:03:19,151] {logging_mixin.py:104} INFO - [2021-07-04 02:03:19,150] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:19,184] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:19,221] {logging_mixin.py:104} INFO - [2021-07-04 02:03:19,221] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:03:19,256] {logging_mixin.py:104} INFO - [2021-07-04 02:03:19,256] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:03:19.254448+00:00
+[2021-07-04 02:03:19,272] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:03:50,076] {scheduler_job.py:182} INFO - Started process (PID=7045) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:50,079] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:03:50,081] {logging_mixin.py:104} INFO - [2021-07-04 02:03:50,081] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:50,112] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:03:50,146] {logging_mixin.py:104} INFO - [2021-07-04 02:03:50,146] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:03:50,179] {logging_mixin.py:104} INFO - [2021-07-04 02:03:50,179] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:03:50.177494+00:00
+[2021-07-04 02:03:50,194] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.123 seconds
+[2021-07-04 02:04:21,096] {scheduler_job.py:182} INFO - Started process (PID=7072) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:21,100] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:04:21,103] {logging_mixin.py:104} INFO - [2021-07-04 02:04:21,102] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:21,136] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:21,172] {logging_mixin.py:104} INFO - [2021-07-04 02:04:21,172] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:04:21,206] {logging_mixin.py:104} INFO - [2021-07-04 02:04:21,206] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:04:21.204619+00:00
+[2021-07-04 02:04:21,222] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.133 seconds
+[2021-07-04 02:04:52,106] {scheduler_job.py:182} INFO - Started process (PID=7099) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:52,109] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:04:52,111] {logging_mixin.py:104} INFO - [2021-07-04 02:04:52,110] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:52,141] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:04:52,177] {logging_mixin.py:104} INFO - [2021-07-04 02:04:52,176] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:04:52,209] {logging_mixin.py:104} INFO - [2021-07-04 02:04:52,209] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:04:52.207756+00:00
+[2021-07-04 02:04:52,224] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.125 seconds
+[2021-07-04 02:05:23,075] {scheduler_job.py:182} INFO - Started process (PID=7127) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:23,078] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:05:23,080] {logging_mixin.py:104} INFO - [2021-07-04 02:05:23,080] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:23,113] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:23,148] {logging_mixin.py:104} INFO - [2021-07-04 02:05:23,148] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:05:23,185] {logging_mixin.py:104} INFO - [2021-07-04 02:05:23,184] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:05:23.183066+00:00
+[2021-07-04 02:05:23,200] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:05:54,027] {scheduler_job.py:182} INFO - Started process (PID=7154) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:54,030] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:05:54,032] {logging_mixin.py:104} INFO - [2021-07-04 02:05:54,032] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:54,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:05:54,098] {logging_mixin.py:104} INFO - [2021-07-04 02:05:54,097] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:05:54,131] {logging_mixin.py:104} INFO - [2021-07-04 02:05:54,130] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:05:54.129065+00:00
+[2021-07-04 02:05:54,145] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.124 seconds
+[2021-07-04 02:06:24,959] {scheduler_job.py:182} INFO - Started process (PID=7181) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:24,962] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:06:24,964] {logging_mixin.py:104} INFO - [2021-07-04 02:06:24,964] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:24,997] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:25,031] {logging_mixin.py:104} INFO - [2021-07-04 02:06:25,031] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:06:25,065] {logging_mixin.py:104} INFO - [2021-07-04 02:06:25,065] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:06:25.063357+00:00
+[2021-07-04 02:06:25,080] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:06:56,062] {scheduler_job.py:182} INFO - Started process (PID=7208) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:56,065] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:06:56,067] {logging_mixin.py:104} INFO - [2021-07-04 02:06:56,067] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:56,099] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:06:56,133] {logging_mixin.py:104} INFO - [2021-07-04 02:06:56,133] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:06:56,165] {logging_mixin.py:104} INFO - [2021-07-04 02:06:56,165] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:06:56.163947+00:00
+[2021-07-04 02:06:56,181] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.125 seconds
+[2021-07-04 02:07:27,027] {scheduler_job.py:182} INFO - Started process (PID=7235) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:27,031] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:07:27,033] {logging_mixin.py:104} INFO - [2021-07-04 02:07:27,033] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:27,064] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:27,099] {logging_mixin.py:104} INFO - [2021-07-04 02:07:27,099] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:07:27,132] {logging_mixin.py:104} INFO - [2021-07-04 02:07:27,131] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:07:27.130241+00:00
+[2021-07-04 02:07:27,147] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.126 seconds
+[2021-07-04 02:07:58,066] {scheduler_job.py:182} INFO - Started process (PID=7261) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:58,070] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:07:58,074] {logging_mixin.py:104} INFO - [2021-07-04 02:07:58,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:58,106] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:07:58,141] {logging_mixin.py:104} INFO - [2021-07-04 02:07:58,140] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:07:58,175] {logging_mixin.py:104} INFO - [2021-07-04 02:07:58,174] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:07:58.173101+00:00
+[2021-07-04 02:07:58,189] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:08:29,052] {scheduler_job.py:182} INFO - Started process (PID=7297) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:08:29,054] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:08:29,056] {logging_mixin.py:104} INFO - [2021-07-04 02:08:29,056] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:08:29,088] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:08:29,123] {logging_mixin.py:104} INFO - [2021-07-04 02:08:29,123] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:08:29,156] {logging_mixin.py:104} INFO - [2021-07-04 02:08:29,156] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:08:29.154832+00:00
+[2021-07-04 02:08:29,171] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.125 seconds
+[2021-07-04 02:08:59,996] {scheduler_job.py:182} INFO - Started process (PID=7326) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:08:59,999] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:09:00,001] {logging_mixin.py:104} INFO - [2021-07-04 02:09:00,001] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:09:00,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:09:00,082] {logging_mixin.py:104} INFO - [2021-07-04 02:09:00,082] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:09:00,117] {logging_mixin.py:104} INFO - [2021-07-04 02:09:00,116] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:09:00.115050+00:00
+[2021-07-04 02:09:00,134] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.144 seconds
+[2021-07-04 02:09:31,063] {scheduler_job.py:182} INFO - Started process (PID=7353) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:09:31,066] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:09:31,068] {logging_mixin.py:104} INFO - [2021-07-04 02:09:31,068] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:09:31,099] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:09:31,134] {logging_mixin.py:104} INFO - [2021-07-04 02:09:31,134] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:09:31,167] {logging_mixin.py:104} INFO - [2021-07-04 02:09:31,167] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:09:31.165665+00:00
+[2021-07-04 02:09:31,182] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.126 seconds
+[2021-07-04 02:10:02,141] {scheduler_job.py:182} INFO - Started process (PID=7381) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:02,145] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:10:02,148] {logging_mixin.py:104} INFO - [2021-07-04 02:10:02,147] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:02,181] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:02,216] {logging_mixin.py:104} INFO - [2021-07-04 02:10:02,215] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:10:02,250] {logging_mixin.py:104} INFO - [2021-07-04 02:10:02,250] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:10:02.248197+00:00
+[2021-07-04 02:10:02,267] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:10:33,166] {scheduler_job.py:182} INFO - Started process (PID=7408) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:33,171] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:10:33,173] {logging_mixin.py:104} INFO - [2021-07-04 02:10:33,173] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:33,204] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:10:33,239] {logging_mixin.py:104} INFO - [2021-07-04 02:10:33,239] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:10:33,272] {logging_mixin.py:104} INFO - [2021-07-04 02:10:33,272] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:10:33.270488+00:00
+[2021-07-04 02:10:33,287] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:11:04,199] {scheduler_job.py:182} INFO - Started process (PID=7436) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:04,204] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:11:04,206] {logging_mixin.py:104} INFO - [2021-07-04 02:11:04,206] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:04,240] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:04,277] {logging_mixin.py:104} INFO - [2021-07-04 02:11:04,277] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:11:04,313] {logging_mixin.py:104} INFO - [2021-07-04 02:11:04,313] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:11:04.310246+00:00
+[2021-07-04 02:11:04,330] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.137 seconds
+[2021-07-04 02:11:35,115] {scheduler_job.py:182} INFO - Started process (PID=7464) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:35,118] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:11:35,120] {logging_mixin.py:104} INFO - [2021-07-04 02:11:35,120] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:35,153] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:11:35,188] {logging_mixin.py:104} INFO - [2021-07-04 02:11:35,188] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:11:35,221] {logging_mixin.py:104} INFO - [2021-07-04 02:11:35,221] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:11:35.219404+00:00
+[2021-07-04 02:11:35,236] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.126 seconds
+[2021-07-04 02:12:06,284] {scheduler_job.py:182} INFO - Started process (PID=7491) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:06,288] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:12:06,291] {logging_mixin.py:104} INFO - [2021-07-04 02:12:06,291] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:06,324] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:06,360] {logging_mixin.py:104} INFO - [2021-07-04 02:12:06,359] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:12:06,393] {logging_mixin.py:104} INFO - [2021-07-04 02:12:06,393] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:12:06.391949+00:00
+[2021-07-04 02:12:06,409] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.131 seconds
+[2021-07-04 02:12:37,411] {scheduler_job.py:182} INFO - Started process (PID=7518) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:37,414] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:12:37,416] {logging_mixin.py:104} INFO - [2021-07-04 02:12:37,416] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:37,450] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:12:37,485] {logging_mixin.py:104} INFO - [2021-07-04 02:12:37,485] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:12:37,518] {logging_mixin.py:104} INFO - [2021-07-04 02:12:37,518] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:12:37.517013+00:00
+[2021-07-04 02:12:37,535] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.131 seconds
+[2021-07-04 02:13:08,384] {scheduler_job.py:182} INFO - Started process (PID=7545) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:08,388] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:13:08,391] {logging_mixin.py:104} INFO - [2021-07-04 02:13:08,390] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:08,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:08,462] {logging_mixin.py:104} INFO - [2021-07-04 02:13:08,461] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:13:08,497] {logging_mixin.py:104} INFO - [2021-07-04 02:13:08,497] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:13:08.495649+00:00
+[2021-07-04 02:13:08,513] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:13:39,458] {scheduler_job.py:182} INFO - Started process (PID=7574) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:39,462] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:13:39,465] {logging_mixin.py:104} INFO - [2021-07-04 02:13:39,464] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:39,496] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:13:39,531] {logging_mixin.py:104} INFO - [2021-07-04 02:13:39,531] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:13:39,564] {logging_mixin.py:104} INFO - [2021-07-04 02:13:39,564] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:13:39.562446+00:00
+[2021-07-04 02:13:39,579] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:14:10,477] {scheduler_job.py:182} INFO - Started process (PID=7601) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:10,480] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:14:10,483] {logging_mixin.py:104} INFO - [2021-07-04 02:14:10,482] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:10,515] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:10,550] {logging_mixin.py:104} INFO - [2021-07-04 02:14:10,550] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:14:10,583] {logging_mixin.py:104} INFO - [2021-07-04 02:14:10,583] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:14:10.581357+00:00
+[2021-07-04 02:14:10,598] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.127 seconds
+[2021-07-04 02:14:41,451] {scheduler_job.py:182} INFO - Started process (PID=7629) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:41,454] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:14:41,456] {logging_mixin.py:104} INFO - [2021-07-04 02:14:41,456] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:41,488] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:14:41,528] {logging_mixin.py:104} INFO - [2021-07-04 02:14:41,527] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:14:41,562] {logging_mixin.py:104} INFO - [2021-07-04 02:14:41,562] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:14:41.560681+00:00
+[2021-07-04 02:14:41,578] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:15:12,502] {scheduler_job.py:182} INFO - Started process (PID=7656) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:12,506] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:15:12,508] {logging_mixin.py:104} INFO - [2021-07-04 02:15:12,507] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:12,540] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:12,575] {logging_mixin.py:104} INFO - [2021-07-04 02:15:12,575] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:15:12,611] {logging_mixin.py:104} INFO - [2021-07-04 02:15:12,610] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:15:12.609172+00:00
+[2021-07-04 02:15:12,625] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 02:15:43,548] {scheduler_job.py:182} INFO - Started process (PID=7683) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:43,551] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:15:43,553] {logging_mixin.py:104} INFO - [2021-07-04 02:15:43,553] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:43,586] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:15:43,622] {logging_mixin.py:104} INFO - [2021-07-04 02:15:43,622] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:15:43,656] {logging_mixin.py:104} INFO - [2021-07-04 02:15:43,656] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:15:43.654705+00:00
+[2021-07-04 02:15:43,671] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 02:16:14,561] {scheduler_job.py:182} INFO - Started process (PID=7710) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:14,564] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:16:14,566] {logging_mixin.py:104} INFO - [2021-07-04 02:16:14,566] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:14,599] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:14,636] {logging_mixin.py:104} INFO - [2021-07-04 02:16:14,636] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:16:14,671] {logging_mixin.py:104} INFO - [2021-07-04 02:16:14,671] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:16:14.669498+00:00
+[2021-07-04 02:16:14,686] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:16:45,714] {scheduler_job.py:182} INFO - Started process (PID=7737) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:45,719] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:16:45,721] {logging_mixin.py:104} INFO - [2021-07-04 02:16:45,721] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:45,753] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:16:45,788] {logging_mixin.py:104} INFO - [2021-07-04 02:16:45,787] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:16:45,821] {logging_mixin.py:104} INFO - [2021-07-04 02:16:45,821] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:16:45.819650+00:00
+[2021-07-04 02:16:45,836] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:17:16,667] {scheduler_job.py:182} INFO - Started process (PID=7764) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:16,670] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:17:16,672] {logging_mixin.py:104} INFO - [2021-07-04 02:17:16,672] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:16,706] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:16,743] {logging_mixin.py:104} INFO - [2021-07-04 02:17:16,743] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:17:16,778] {logging_mixin.py:104} INFO - [2021-07-04 02:17:16,778] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:17:16.776418+00:00
+[2021-07-04 02:17:16,794] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:17:47,606] {scheduler_job.py:182} INFO - Started process (PID=7791) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:47,610] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:17:47,612] {logging_mixin.py:104} INFO - [2021-07-04 02:17:47,612] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:47,647] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:17:47,683] {logging_mixin.py:104} INFO - [2021-07-04 02:17:47,683] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:17:47,719] {logging_mixin.py:104} INFO - [2021-07-04 02:17:47,719] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:17:47.717704+00:00
+[2021-07-04 02:17:47,735] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:18:18,707] {scheduler_job.py:182} INFO - Started process (PID=7818) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:18,711] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:18:18,713] {logging_mixin.py:104} INFO - [2021-07-04 02:18:18,713] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:18,747] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:18,784] {logging_mixin.py:104} INFO - [2021-07-04 02:18:18,783] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:18:18,818] {logging_mixin.py:104} INFO - [2021-07-04 02:18:18,817] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:18:18.816154+00:00
+[2021-07-04 02:18:18,832] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:18:49,650] {scheduler_job.py:182} INFO - Started process (PID=7845) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:49,653] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:18:49,656] {logging_mixin.py:104} INFO - [2021-07-04 02:18:49,655] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:49,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:18:49,723] {logging_mixin.py:104} INFO - [2021-07-04 02:18:49,723] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:18:49,809] {logging_mixin.py:104} INFO - [2021-07-04 02:18:49,808] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:18:49.806770+00:00
+[2021-07-04 02:18:49,830] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.185 seconds
+[2021-07-04 02:19:20,638] {scheduler_job.py:182} INFO - Started process (PID=7872) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:20,648] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:19:20,651] {logging_mixin.py:104} INFO - [2021-07-04 02:19:20,651] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:20,685] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:20,720] {logging_mixin.py:104} INFO - [2021-07-04 02:19:20,720] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:19:20,753] {logging_mixin.py:104} INFO - [2021-07-04 02:19:20,753] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:19:20.751437+00:00
+[2021-07-04 02:19:20,777] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.145 seconds
+[2021-07-04 02:19:51,563] {scheduler_job.py:182} INFO - Started process (PID=7899) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:51,567] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:19:51,569] {logging_mixin.py:104} INFO - [2021-07-04 02:19:51,569] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:51,601] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:19:51,636] {logging_mixin.py:104} INFO - [2021-07-04 02:19:51,636] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:19:51,671] {logging_mixin.py:104} INFO - [2021-07-04 02:19:51,671] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:19:51.669655+00:00
+[2021-07-04 02:19:51,687] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.131 seconds
+[2021-07-04 02:20:22,541] {scheduler_job.py:182} INFO - Started process (PID=7926) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:22,545] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:20:22,548] {logging_mixin.py:104} INFO - [2021-07-04 02:20:22,547] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:22,582] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:22,619] {logging_mixin.py:104} INFO - [2021-07-04 02:20:22,618] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:20:22,654] {logging_mixin.py:104} INFO - [2021-07-04 02:20:22,653] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:20:22.651877+00:00
+[2021-07-04 02:20:22,669] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:20:53,527] {scheduler_job.py:182} INFO - Started process (PID=7954) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:53,531] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:20:53,533] {logging_mixin.py:104} INFO - [2021-07-04 02:20:53,532] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:53,565] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:20:53,600] {logging_mixin.py:104} INFO - [2021-07-04 02:20:53,600] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:20:53,633] {logging_mixin.py:104} INFO - [2021-07-04 02:20:53,633] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:20:53.631823+00:00
+[2021-07-04 02:20:53,648] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:21:24,576] {scheduler_job.py:182} INFO - Started process (PID=7981) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:24,579] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:21:24,582] {logging_mixin.py:104} INFO - [2021-07-04 02:21:24,582] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:24,617] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:24,655] {logging_mixin.py:104} INFO - [2021-07-04 02:21:24,654] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:21:24,688] {logging_mixin.py:104} INFO - [2021-07-04 02:21:24,688] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:21:24.686721+00:00
+[2021-07-04 02:21:24,703] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:21:55,602] {scheduler_job.py:182} INFO - Started process (PID=8008) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:55,605] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:21:55,608] {logging_mixin.py:104} INFO - [2021-07-04 02:21:55,607] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:55,645] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:21:55,687] {logging_mixin.py:104} INFO - [2021-07-04 02:21:55,687] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:21:55,723] {logging_mixin.py:104} INFO - [2021-07-04 02:21:55,723] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:21:55.721859+00:00
+[2021-07-04 02:21:55,740] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.146 seconds
+[2021-07-04 02:22:26,524] {scheduler_job.py:182} INFO - Started process (PID=8036) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:26,529] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:22:26,532] {logging_mixin.py:104} INFO - [2021-07-04 02:22:26,531] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:26,567] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:26,604] {logging_mixin.py:104} INFO - [2021-07-04 02:22:26,604] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:22:26,637] {logging_mixin.py:104} INFO - [2021-07-04 02:22:26,637] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:22:26.635918+00:00
+[2021-07-04 02:22:26,652] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.136 seconds
+[2021-07-04 02:22:57,484] {scheduler_job.py:182} INFO - Started process (PID=8064) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:57,487] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:22:57,489] {logging_mixin.py:104} INFO - [2021-07-04 02:22:57,489] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:57,522] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:22:57,558] {logging_mixin.py:104} INFO - [2021-07-04 02:22:57,557] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:22:57,592] {logging_mixin.py:104} INFO - [2021-07-04 02:22:57,592] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:22:57.590409+00:00
+[2021-07-04 02:22:57,607] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:23:28,549] {scheduler_job.py:182} INFO - Started process (PID=8091) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:28,552] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:23:28,554] {logging_mixin.py:104} INFO - [2021-07-04 02:23:28,554] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:28,587] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:28,623] {logging_mixin.py:104} INFO - [2021-07-04 02:23:28,623] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:23:28,656] {logging_mixin.py:104} INFO - [2021-07-04 02:23:28,656] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:23:28.654835+00:00
+[2021-07-04 02:23:28,672] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 02:23:59,470] {scheduler_job.py:182} INFO - Started process (PID=8118) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:59,474] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:23:59,476] {logging_mixin.py:104} INFO - [2021-07-04 02:23:59,476] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:59,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:23:59,548] {logging_mixin.py:104} INFO - [2021-07-04 02:23:59,548] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:23:59,582] {logging_mixin.py:104} INFO - [2021-07-04 02:23:59,582] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:23:59.580746+00:00
+[2021-07-04 02:23:59,597] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:24:30,585] {scheduler_job.py:182} INFO - Started process (PID=8145) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:24:30,588] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:24:30,591] {logging_mixin.py:104} INFO - [2021-07-04 02:24:30,590] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:24:30,623] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:24:30,658] {logging_mixin.py:104} INFO - [2021-07-04 02:24:30,658] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:24:30,691] {logging_mixin.py:104} INFO - [2021-07-04 02:24:30,691] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:24:30.689953+00:00
+[2021-07-04 02:24:30,706] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:25:01,548] {scheduler_job.py:182} INFO - Started process (PID=8173) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:01,552] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:25:01,554] {logging_mixin.py:104} INFO - [2021-07-04 02:25:01,554] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:01,587] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:01,621] {logging_mixin.py:104} INFO - [2021-07-04 02:25:01,621] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:25:01,655] {logging_mixin.py:104} INFO - [2021-07-04 02:25:01,654] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:25:01.653345+00:00
+[2021-07-04 02:25:01,670] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:25:32,503] {scheduler_job.py:182} INFO - Started process (PID=8199) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:32,507] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:25:32,510] {logging_mixin.py:104} INFO - [2021-07-04 02:25:32,510] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:32,542] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:25:32,577] {logging_mixin.py:104} INFO - [2021-07-04 02:25:32,576] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:25:32,610] {logging_mixin.py:104} INFO - [2021-07-04 02:25:32,610] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:25:32.608799+00:00
+[2021-07-04 02:25:32,625] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:26:03,455] {scheduler_job.py:182} INFO - Started process (PID=8226) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:03,459] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:26:03,461] {logging_mixin.py:104} INFO - [2021-07-04 02:26:03,461] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:03,496] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:03,536] {logging_mixin.py:104} INFO - [2021-07-04 02:26:03,536] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:26:03,571] {logging_mixin.py:104} INFO - [2021-07-04 02:26:03,570] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:26:03.568817+00:00
+[2021-07-04 02:26:03,587] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:26:34,562] {scheduler_job.py:182} INFO - Started process (PID=8255) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:34,565] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:26:34,567] {logging_mixin.py:104} INFO - [2021-07-04 02:26:34,567] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:34,604] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:26:34,640] {logging_mixin.py:104} INFO - [2021-07-04 02:26:34,639] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:26:34,672] {logging_mixin.py:104} INFO - [2021-07-04 02:26:34,672] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:26:34.670728+00:00
+[2021-07-04 02:26:34,688] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.133 seconds
+[2021-07-04 02:27:05,607] {scheduler_job.py:182} INFO - Started process (PID=8290) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:05,610] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:27:05,613] {logging_mixin.py:104} INFO - [2021-07-04 02:27:05,613] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:05,645] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:05,681] {logging_mixin.py:104} INFO - [2021-07-04 02:27:05,680] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:27:05,714] {logging_mixin.py:104} INFO - [2021-07-04 02:27:05,713] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:27:05.712093+00:00
+[2021-07-04 02:27:05,728] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:27:36,722] {scheduler_job.py:182} INFO - Started process (PID=8317) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:36,725] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:27:36,728] {logging_mixin.py:104} INFO - [2021-07-04 02:27:36,727] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:36,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:27:36,795] {logging_mixin.py:104} INFO - [2021-07-04 02:27:36,795] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:27:36,828] {logging_mixin.py:104} INFO - [2021-07-04 02:27:36,827] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:27:36.826044+00:00
+[2021-07-04 02:27:36,843] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:28:07,795] {scheduler_job.py:182} INFO - Started process (PID=8344) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:07,798] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:28:07,801] {logging_mixin.py:104} INFO - [2021-07-04 02:28:07,800] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:07,835] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:07,872] {logging_mixin.py:104} INFO - [2021-07-04 02:28:07,872] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:28:07,910] {logging_mixin.py:104} INFO - [2021-07-04 02:28:07,909] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:28:07.908029+00:00
+[2021-07-04 02:28:07,926] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.137 seconds
+[2021-07-04 02:28:38,825] {scheduler_job.py:182} INFO - Started process (PID=8371) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:38,830] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:28:38,832] {logging_mixin.py:104} INFO - [2021-07-04 02:28:38,832] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:38,863] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:28:38,898] {logging_mixin.py:104} INFO - [2021-07-04 02:28:38,898] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:28:38,931] {logging_mixin.py:104} INFO - [2021-07-04 02:28:38,931] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:28:38.929998+00:00
+[2021-07-04 02:28:38,946] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.127 seconds
+[2021-07-04 02:29:09,922] {scheduler_job.py:182} INFO - Started process (PID=8398) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:09,925] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:29:09,927] {logging_mixin.py:104} INFO - [2021-07-04 02:29:09,927] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:09,961] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:09,996] {logging_mixin.py:104} INFO - [2021-07-04 02:29:09,995] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:29:10,028] {logging_mixin.py:104} INFO - [2021-07-04 02:29:10,028] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:29:10.027016+00:00
+[2021-07-04 02:29:10,044] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.128 seconds
+[2021-07-04 02:29:40,922] {scheduler_job.py:182} INFO - Started process (PID=8425) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:40,926] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:29:40,929] {logging_mixin.py:104} INFO - [2021-07-04 02:29:40,928] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:40,962] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:29:40,999] {logging_mixin.py:104} INFO - [2021-07-04 02:29:40,998] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:29:41,031] {logging_mixin.py:104} INFO - [2021-07-04 02:29:41,031] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:29:41.029571+00:00
+[2021-07-04 02:29:41,046] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 02:30:12,048] {scheduler_job.py:182} INFO - Started process (PID=8454) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:12,051] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:30:12,053] {logging_mixin.py:104} INFO - [2021-07-04 02:30:12,053] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:12,086] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:12,127] {logging_mixin.py:104} INFO - [2021-07-04 02:30:12,127] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:30:12,174] {logging_mixin.py:104} INFO - [2021-07-04 02:30:12,173] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:30:12.171338+00:00
+[2021-07-04 02:30:12,191] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.149 seconds
+[2021-07-04 02:30:43,133] {scheduler_job.py:182} INFO - Started process (PID=8481) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:43,137] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:30:43,139] {logging_mixin.py:104} INFO - [2021-07-04 02:30:43,139] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:43,173] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:30:43,208] {logging_mixin.py:104} INFO - [2021-07-04 02:30:43,208] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:30:43,241] {logging_mixin.py:104} INFO - [2021-07-04 02:30:43,241] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:30:43.239382+00:00
+[2021-07-04 02:30:43,256] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.129 seconds
+[2021-07-04 02:31:14,151] {scheduler_job.py:182} INFO - Started process (PID=8507) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:14,155] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:31:14,157] {logging_mixin.py:104} INFO - [2021-07-04 02:31:14,157] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:14,191] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:14,227] {logging_mixin.py:104} INFO - [2021-07-04 02:31:14,227] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:31:14,259] {logging_mixin.py:104} INFO - [2021-07-04 02:31:14,259] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:31:14.258036+00:00
+[2021-07-04 02:31:14,274] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.130 seconds
+[2021-07-04 02:31:45,103] {scheduler_job.py:182} INFO - Started process (PID=8535) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:45,109] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:31:45,112] {logging_mixin.py:104} INFO - [2021-07-04 02:31:45,111] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:45,149] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:31:45,189] {logging_mixin.py:104} INFO - [2021-07-04 02:31:45,188] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:31:45,227] {logging_mixin.py:104} INFO - [2021-07-04 02:31:45,227] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:31:45.225554+00:00
+[2021-07-04 02:31:45,243] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.147 seconds
+[2021-07-04 02:32:16,088] {scheduler_job.py:182} INFO - Started process (PID=8553) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:16,093] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:32:16,096] {logging_mixin.py:104} INFO - [2021-07-04 02:32:16,096] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:16,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:16,172] {logging_mixin.py:104} INFO - [2021-07-04 02:32:16,172] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:32:16,208] {logging_mixin.py:104} INFO - [2021-07-04 02:32:16,207] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:32:16.205910+00:00
+[2021-07-04 02:32:16,224] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.146 seconds
+[2021-07-04 02:32:47,067] {scheduler_job.py:182} INFO - Started process (PID=8580) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:47,072] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:32:47,075] {logging_mixin.py:104} INFO - [2021-07-04 02:32:47,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:47,111] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:32:47,148] {logging_mixin.py:104} INFO - [2021-07-04 02:32:47,147] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:32:47,182] {logging_mixin.py:104} INFO - [2021-07-04 02:32:47,181] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:32:47.180292+00:00
+[2021-07-04 02:32:47,197] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.139 seconds
+[2021-07-04 02:33:17,286] {scheduler_job.py:182} INFO - Started process (PID=8607) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:17,291] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:33:17,295] {logging_mixin.py:104} INFO - [2021-07-04 02:33:17,294] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:17,334] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:17,370] {logging_mixin.py:104} INFO - [2021-07-04 02:33:17,370] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:33:17,405] {logging_mixin.py:104} INFO - [2021-07-04 02:33:17,404] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:33:17.403010+00:00
+[2021-07-04 02:33:17,421] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.145 seconds
+[2021-07-04 02:33:48,150] {scheduler_job.py:182} INFO - Started process (PID=8635) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:48,153] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:33:48,155] {logging_mixin.py:104} INFO - [2021-07-04 02:33:48,154] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:48,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:33:48,220] {logging_mixin.py:104} INFO - [2021-07-04 02:33:48,220] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:33:48,253] {logging_mixin.py:104} INFO - [2021-07-04 02:33:48,253] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:33:48.252062+00:00
+[2021-07-04 02:33:48,268] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.124 seconds
+[2021-07-04 02:34:19,190] {scheduler_job.py:182} INFO - Started process (PID=8662) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:19,195] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:34:19,198] {logging_mixin.py:104} INFO - [2021-07-04 02:34:19,197] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:19,235] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:19,270] {logging_mixin.py:104} INFO - [2021-07-04 02:34:19,269] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:34:19,302] {logging_mixin.py:104} INFO - [2021-07-04 02:34:19,302] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:34:19.300606+00:00
+[2021-07-04 02:34:19,318] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.137 seconds
+[2021-07-04 02:34:50,192] {scheduler_job.py:182} INFO - Started process (PID=8690) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:50,196] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:34:50,199] {logging_mixin.py:104} INFO - [2021-07-04 02:34:50,199] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:50,238] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:34:50,272] {logging_mixin.py:104} INFO - [2021-07-04 02:34:50,272] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:34:50,309] {logging_mixin.py:104} INFO - [2021-07-04 02:34:50,308] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:34:50.306895+00:00
+[2021-07-04 02:34:50,324] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:35:20,400] {scheduler_job.py:182} INFO - Started process (PID=8717) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:20,404] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:35:20,406] {logging_mixin.py:104} INFO - [2021-07-04 02:35:20,406] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:20,441] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:20,476] {logging_mixin.py:104} INFO - [2021-07-04 02:35:20,476] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:35:20,510] {logging_mixin.py:104} INFO - [2021-07-04 02:35:20,510] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:35:20.508769+00:00
+[2021-07-04 02:35:20,527] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:35:51,288] {scheduler_job.py:182} INFO - Started process (PID=8743) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:51,293] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:35:51,296] {logging_mixin.py:104} INFO - [2021-07-04 02:35:51,296] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:51,332] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:35:51,368] {logging_mixin.py:104} INFO - [2021-07-04 02:35:51,368] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:35:51,402] {logging_mixin.py:104} INFO - [2021-07-04 02:35:51,402] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:35:51.400878+00:00
+[2021-07-04 02:35:51,418] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.139 seconds
+[2021-07-04 02:36:22,366] {scheduler_job.py:182} INFO - Started process (PID=8770) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:22,370] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:36:22,373] {logging_mixin.py:104} INFO - [2021-07-04 02:36:22,373] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:22,408] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:22,444] {logging_mixin.py:104} INFO - [2021-07-04 02:36:22,443] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:36:22,477] {logging_mixin.py:104} INFO - [2021-07-04 02:36:22,476] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:36:22.475346+00:00
+[2021-07-04 02:36:22,492] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:36:53,425] {scheduler_job.py:182} INFO - Started process (PID=8797) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:53,429] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:36:53,432] {logging_mixin.py:104} INFO - [2021-07-04 02:36:53,431] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:53,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:36:53,505] {logging_mixin.py:104} INFO - [2021-07-04 02:36:53,505] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:36:53,538] {logging_mixin.py:104} INFO - [2021-07-04 02:36:53,538] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:36:53.536738+00:00
+[2021-07-04 02:36:53,553] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:37:23,677] {scheduler_job.py:182} INFO - Started process (PID=8824) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:23,681] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:37:23,685] {logging_mixin.py:104} INFO - [2021-07-04 02:37:23,684] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:23,723] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:23,757] {logging_mixin.py:104} INFO - [2021-07-04 02:37:23,757] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:37:23,790] {logging_mixin.py:104} INFO - [2021-07-04 02:37:23,790] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:37:23.788849+00:00
+[2021-07-04 02:37:23,805] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:37:54,701] {scheduler_job.py:182} INFO - Started process (PID=8852) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:54,706] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:37:54,709] {logging_mixin.py:104} INFO - [2021-07-04 02:37:54,709] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:54,745] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:37:54,781] {logging_mixin.py:104} INFO - [2021-07-04 02:37:54,781] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:37:54,815] {logging_mixin.py:104} INFO - [2021-07-04 02:37:54,815] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:37:54.813818+00:00
+[2021-07-04 02:37:54,830] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:38:25,765] {scheduler_job.py:182} INFO - Started process (PID=8878) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:25,769] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:38:25,772] {logging_mixin.py:104} INFO - [2021-07-04 02:38:25,772] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:25,809] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:25,846] {logging_mixin.py:104} INFO - [2021-07-04 02:38:25,845] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:38:25,881] {logging_mixin.py:104} INFO - [2021-07-04 02:38:25,881] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:38:25.879419+00:00
+[2021-07-04 02:38:25,896] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.141 seconds
+[2021-07-04 02:38:55,980] {scheduler_job.py:182} INFO - Started process (PID=8906) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:55,985] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:38:55,988] {logging_mixin.py:104} INFO - [2021-07-04 02:38:55,987] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:56,024] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:38:56,061] {logging_mixin.py:104} INFO - [2021-07-04 02:38:56,060] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:38:56,093] {logging_mixin.py:104} INFO - [2021-07-04 02:38:56,093] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:38:56.091994+00:00
+[2021-07-04 02:38:56,108] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.137 seconds
+[2021-07-04 02:39:26,888] {scheduler_job.py:182} INFO - Started process (PID=8934) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:26,892] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:39:26,895] {logging_mixin.py:104} INFO - [2021-07-04 02:39:26,895] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:26,932] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:26,968] {logging_mixin.py:104} INFO - [2021-07-04 02:39:26,967] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:39:27,001] {logging_mixin.py:104} INFO - [2021-07-04 02:39:27,001] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:39:26.999823+00:00
+[2021-07-04 02:39:27,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:39:57,921] {scheduler_job.py:182} INFO - Started process (PID=8961) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:57,926] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:39:57,929] {logging_mixin.py:104} INFO - [2021-07-04 02:39:57,928] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:57,966] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:39:58,003] {logging_mixin.py:104} INFO - [2021-07-04 02:39:58,003] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:39:58,040] {logging_mixin.py:104} INFO - [2021-07-04 02:39:58,040] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:39:58.038540+00:00
+[2021-07-04 02:39:58,055] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.143 seconds
+[2021-07-04 02:40:28,920] {scheduler_job.py:182} INFO - Started process (PID=8988) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:40:28,925] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:40:28,928] {logging_mixin.py:104} INFO - [2021-07-04 02:40:28,928] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:40:28,964] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:40:29,000] {logging_mixin.py:104} INFO - [2021-07-04 02:40:28,999] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:40:29,033] {logging_mixin.py:104} INFO - [2021-07-04 02:40:29,032] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:40:29.031163+00:00
+[2021-07-04 02:40:29,048] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.136 seconds
+[2021-07-04 02:40:59,952] {scheduler_job.py:182} INFO - Started process (PID=9015) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:40:59,958] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:40:59,961] {logging_mixin.py:104} INFO - [2021-07-04 02:40:59,960] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:40:59,994] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:41:00,029] {logging_mixin.py:104} INFO - [2021-07-04 02:41:00,029] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:41:00,062] {logging_mixin.py:104} INFO - [2021-07-04 02:41:00,062] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:41:00.060418+00:00
+[2021-07-04 02:41:00,077] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:41:30,161] {scheduler_job.py:182} INFO - Started process (PID=9043) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:41:30,165] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:41:30,168] {logging_mixin.py:104} INFO - [2021-07-04 02:41:30,167] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:41:30,202] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:41:30,238] {logging_mixin.py:104} INFO - [2021-07-04 02:41:30,237] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:41:30,271] {logging_mixin.py:104} INFO - [2021-07-04 02:41:30,271] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:41:30.269625+00:00
+[2021-07-04 02:41:30,286] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:42:01,222] {scheduler_job.py:182} INFO - Started process (PID=9070) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:01,226] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:42:01,229] {logging_mixin.py:104} INFO - [2021-07-04 02:42:01,228] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:01,263] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:01,299] {logging_mixin.py:104} INFO - [2021-07-04 02:42:01,299] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:42:01,333] {logging_mixin.py:104} INFO - [2021-07-04 02:42:01,332] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:42:01.331255+00:00
+[2021-07-04 02:42:01,347] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:42:31,432] {scheduler_job.py:182} INFO - Started process (PID=9097) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:31,435] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:42:31,437] {logging_mixin.py:104} INFO - [2021-07-04 02:42:31,437] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:31,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:42:31,505] {logging_mixin.py:104} INFO - [2021-07-04 02:42:31,504] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:42:31,539] {logging_mixin.py:104} INFO - [2021-07-04 02:42:31,539] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:42:31.537889+00:00
+[2021-07-04 02:42:31,554] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.127 seconds
+[2021-07-04 02:43:01,617] {scheduler_job.py:182} INFO - Started process (PID=9124) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:01,621] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:43:01,624] {logging_mixin.py:104} INFO - [2021-07-04 02:43:01,624] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:01,660] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:01,696] {logging_mixin.py:104} INFO - [2021-07-04 02:43:01,696] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:43:01,728] {logging_mixin.py:104} INFO - [2021-07-04 02:43:01,728] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:43:01.727007+00:00
+[2021-07-04 02:43:01,743] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:43:31,797] {scheduler_job.py:182} INFO - Started process (PID=9149) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:31,800] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:43:31,803] {logging_mixin.py:104} INFO - [2021-07-04 02:43:31,802] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:31,835] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:43:31,876] {logging_mixin.py:104} INFO - [2021-07-04 02:43:31,876] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:43:31,915] {logging_mixin.py:104} INFO - [2021-07-04 02:43:31,915] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:43:31.913293+00:00
+[2021-07-04 02:43:31,931] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:44:02,396] {scheduler_job.py:182} INFO - Started process (PID=9166) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:02,401] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:44:02,404] {logging_mixin.py:104} INFO - [2021-07-04 02:44:02,403] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:02,452] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:02,507] {logging_mixin.py:104} INFO - [2021-07-04 02:44:02,507] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:44:02,567] {logging_mixin.py:104} INFO - [2021-07-04 02:44:02,567] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:44:02.565115+00:00
+[2021-07-04 02:44:02,593] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.205 seconds
+[2021-07-04 02:44:32,775] {scheduler_job.py:182} INFO - Started process (PID=9203) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:32,780] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:44:32,785] {logging_mixin.py:104} INFO - [2021-07-04 02:44:32,784] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:32,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:44:32,862] {logging_mixin.py:104} INFO - [2021-07-04 02:44:32,861] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:44:32,896] {logging_mixin.py:104} INFO - [2021-07-04 02:44:32,896] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:44:32.894426+00:00
+[2021-07-04 02:44:32,910] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.143 seconds
+[2021-07-04 02:45:03,879] {scheduler_job.py:182} INFO - Started process (PID=9230) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:03,883] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:45:03,886] {logging_mixin.py:104} INFO - [2021-07-04 02:45:03,885] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:03,920] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:03,955] {logging_mixin.py:104} INFO - [2021-07-04 02:45:03,955] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:45:03,990] {logging_mixin.py:104} INFO - [2021-07-04 02:45:03,989] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:45:03.988123+00:00
+[2021-07-04 02:45:04,005] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:45:34,901] {scheduler_job.py:182} INFO - Started process (PID=9257) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:34,904] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:45:34,906] {logging_mixin.py:104} INFO - [2021-07-04 02:45:34,905] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:34,938] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:45:34,973] {logging_mixin.py:104} INFO - [2021-07-04 02:45:34,973] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:45:35,006] {logging_mixin.py:104} INFO - [2021-07-04 02:45:35,006] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:45:35.004453+00:00
+[2021-07-04 02:45:35,021] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.126 seconds
+[2021-07-04 02:46:05,945] {scheduler_job.py:182} INFO - Started process (PID=9284) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:05,949] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:46:05,952] {logging_mixin.py:104} INFO - [2021-07-04 02:46:05,952] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:05,988] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:06,022] {logging_mixin.py:104} INFO - [2021-07-04 02:46:06,022] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:46:06,055] {logging_mixin.py:104} INFO - [2021-07-04 02:46:06,055] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:46:06.053856+00:00
+[2021-07-04 02:46:06,070] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:46:36,954] {scheduler_job.py:182} INFO - Started process (PID=9311) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:36,957] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:46:36,960] {logging_mixin.py:104} INFO - [2021-07-04 02:46:36,959] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:36,993] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:46:37,030] {logging_mixin.py:104} INFO - [2021-07-04 02:46:37,030] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:46:37,063] {logging_mixin.py:104} INFO - [2021-07-04 02:46:37,063] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:46:37.061449+00:00
+[2021-07-04 02:46:37,078] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:47:08,013] {scheduler_job.py:182} INFO - Started process (PID=9340) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:08,018] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:47:08,021] {logging_mixin.py:104} INFO - [2021-07-04 02:47:08,020] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:08,055] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:08,090] {logging_mixin.py:104} INFO - [2021-07-04 02:47:08,090] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:47:08,124] {logging_mixin.py:104} INFO - [2021-07-04 02:47:08,123] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:47:08.121619+00:00
+[2021-07-04 02:47:08,143] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:47:39,184] {scheduler_job.py:182} INFO - Started process (PID=9367) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:39,189] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:47:39,192] {logging_mixin.py:104} INFO - [2021-07-04 02:47:39,191] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:39,226] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:47:39,261] {logging_mixin.py:104} INFO - [2021-07-04 02:47:39,260] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:47:39,293] {logging_mixin.py:104} INFO - [2021-07-04 02:47:39,293] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:47:39.292016+00:00
+[2021-07-04 02:47:39,308] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:48:10,193] {scheduler_job.py:182} INFO - Started process (PID=9395) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:10,197] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:48:10,199] {logging_mixin.py:104} INFO - [2021-07-04 02:48:10,199] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:10,236] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:10,271] {logging_mixin.py:104} INFO - [2021-07-04 02:48:10,271] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:48:10,304] {logging_mixin.py:104} INFO - [2021-07-04 02:48:10,303] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:48:10.302331+00:00
+[2021-07-04 02:48:10,318] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.132 seconds
+[2021-07-04 02:48:41,213] {scheduler_job.py:182} INFO - Started process (PID=9423) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:41,217] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:48:41,220] {logging_mixin.py:104} INFO - [2021-07-04 02:48:41,220] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:41,258] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:48:41,294] {logging_mixin.py:104} INFO - [2021-07-04 02:48:41,294] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:48:41,329] {logging_mixin.py:104} INFO - [2021-07-04 02:48:41,328] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:48:41.326959+00:00
+[2021-07-04 02:48:41,344] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.141 seconds
+[2021-07-04 02:49:12,282] {scheduler_job.py:182} INFO - Started process (PID=9450) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:12,287] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:49:12,290] {logging_mixin.py:104} INFO - [2021-07-04 02:49:12,289] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:12,327] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:12,366] {logging_mixin.py:104} INFO - [2021-07-04 02:49:12,366] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:49:12,401] {logging_mixin.py:104} INFO - [2021-07-04 02:49:12,401] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:49:12.399713+00:00
+[2021-07-04 02:49:12,417] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.143 seconds
+[2021-07-04 02:49:43,288] {scheduler_job.py:182} INFO - Started process (PID=9477) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:43,293] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:49:43,296] {logging_mixin.py:104} INFO - [2021-07-04 02:49:43,295] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:43,331] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:49:43,367] {logging_mixin.py:104} INFO - [2021-07-04 02:49:43,366] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:49:43,400] {logging_mixin.py:104} INFO - [2021-07-04 02:49:43,400] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:49:43.398427+00:00
+[2021-07-04 02:49:43,415] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.136 seconds
+[2021-07-04 02:50:14,429] {scheduler_job.py:182} INFO - Started process (PID=9506) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:14,434] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:50:14,437] {logging_mixin.py:104} INFO - [2021-07-04 02:50:14,436] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:14,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:14,513] {logging_mixin.py:104} INFO - [2021-07-04 02:50:14,513] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:50:14,546] {logging_mixin.py:104} INFO - [2021-07-04 02:50:14,546] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:50:14.544395+00:00
+[2021-07-04 02:50:14,561] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:50:45,558] {scheduler_job.py:182} INFO - Started process (PID=9533) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:45,563] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:50:45,566] {logging_mixin.py:104} INFO - [2021-07-04 02:50:45,565] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:45,602] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:50:45,637] {logging_mixin.py:104} INFO - [2021-07-04 02:50:45,636] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:50:45,669] {logging_mixin.py:104} INFO - [2021-07-04 02:50:45,669] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:50:45.667568+00:00
+[2021-07-04 02:50:45,684] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.135 seconds
+[2021-07-04 02:51:16,563] {scheduler_job.py:182} INFO - Started process (PID=9560) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:16,566] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:51:16,568] {logging_mixin.py:104} INFO - [2021-07-04 02:51:16,568] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:16,598] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:16,632] {logging_mixin.py:104} INFO - [2021-07-04 02:51:16,632] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:51:16,665] {logging_mixin.py:104} INFO - [2021-07-04 02:51:16,665] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:51:16.663486+00:00
+[2021-07-04 02:51:16,680] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.123 seconds
+[2021-07-04 02:51:47,571] {scheduler_job.py:182} INFO - Started process (PID=9587) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:47,575] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:51:47,578] {logging_mixin.py:104} INFO - [2021-07-04 02:51:47,578] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:47,613] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:51:47,648] {logging_mixin.py:104} INFO - [2021-07-04 02:51:47,647] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:51:47,681] {logging_mixin.py:104} INFO - [2021-07-04 02:51:47,681] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:51:47.679395+00:00
+[2021-07-04 02:51:47,696] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.133 seconds
+[2021-07-04 02:52:18,069] {scheduler_job.py:182} INFO - Started process (PID=9613) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:18,072] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:52:18,074] {logging_mixin.py:104} INFO - [2021-07-04 02:52:18,074] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:18,106] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:18,141] {logging_mixin.py:104} INFO - [2021-07-04 02:52:18,141] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:52:18,174] {logging_mixin.py:104} INFO - [2021-07-04 02:52:18,174] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:52:18.172355+00:00
+[2021-07-04 02:52:18,188] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.125 seconds
+[2021-07-04 02:52:48,584] {scheduler_job.py:182} INFO - Started process (PID=9641) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:48,588] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:52:48,591] {logging_mixin.py:104} INFO - [2021-07-04 02:52:48,590] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:48,628] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:52:48,665] {logging_mixin.py:104} INFO - [2021-07-04 02:52:48,664] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:52:48,699] {logging_mixin.py:104} INFO - [2021-07-04 02:52:48,698] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:52:48.697167+00:00
+[2021-07-04 02:52:48,713] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:53:19,696] {scheduler_job.py:182} INFO - Started process (PID=9668) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:19,701] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:53:19,704] {logging_mixin.py:104} INFO - [2021-07-04 02:53:19,703] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:19,741] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:19,775] {logging_mixin.py:104} INFO - [2021-07-04 02:53:19,775] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:53:19,808] {logging_mixin.py:104} INFO - [2021-07-04 02:53:19,807] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:53:19.806107+00:00
+[2021-07-04 02:53:19,822] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:53:50,685] {scheduler_job.py:182} INFO - Started process (PID=9695) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:50,689] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:53:50,691] {logging_mixin.py:104} INFO - [2021-07-04 02:53:50,691] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:50,725] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:53:50,761] {logging_mixin.py:104} INFO - [2021-07-04 02:53:50,760] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:53:50,795] {logging_mixin.py:104} INFO - [2021-07-04 02:53:50,794] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:53:50.793190+00:00
+[2021-07-04 02:53:50,813] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:54:21,754] {scheduler_job.py:182} INFO - Started process (PID=9726) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:21,759] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:54:21,763] {logging_mixin.py:104} INFO - [2021-07-04 02:54:21,762] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:21,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:21,838] {logging_mixin.py:104} INFO - [2021-07-04 02:54:21,837] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:54:21,870] {logging_mixin.py:104} INFO - [2021-07-04 02:54:21,870] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:54:21.868863+00:00
+[2021-07-04 02:54:21,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.140 seconds
+[2021-07-04 02:54:52,726] {scheduler_job.py:182} INFO - Started process (PID=9754) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:52,730] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:54:52,733] {logging_mixin.py:104} INFO - [2021-07-04 02:54:52,733] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:52,769] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:54:52,803] {logging_mixin.py:104} INFO - [2021-07-04 02:54:52,802] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:54:52,835] {logging_mixin.py:104} INFO - [2021-07-04 02:54:52,835] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:54:52.833998+00:00
+[2021-07-04 02:54:52,850] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.131 seconds
+[2021-07-04 02:55:23,733] {scheduler_job.py:182} INFO - Started process (PID=9782) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:23,738] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:55:23,741] {logging_mixin.py:104} INFO - [2021-07-04 02:55:23,740] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:23,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:23,817] {logging_mixin.py:104} INFO - [2021-07-04 02:55:23,817] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:55:23,851] {logging_mixin.py:104} INFO - [2021-07-04 02:55:23,850] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:55:23.849028+00:00
+[2021-07-04 02:55:23,866] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.142 seconds
+[2021-07-04 02:55:54,667] {scheduler_job.py:182} INFO - Started process (PID=9809) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:54,672] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:55:54,675] {logging_mixin.py:104} INFO - [2021-07-04 02:55:54,675] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:54,712] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:55:54,748] {logging_mixin.py:104} INFO - [2021-07-04 02:55:54,747] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:55:54,781] {logging_mixin.py:104} INFO - [2021-07-04 02:55:54,781] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:55:54.779526+00:00
+[2021-07-04 02:55:54,796] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 02:56:25,672] {scheduler_job.py:182} INFO - Started process (PID=9837) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:25,679] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:56:25,683] {logging_mixin.py:104} INFO - [2021-07-04 02:56:25,682] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:25,723] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:25,758] {logging_mixin.py:104} INFO - [2021-07-04 02:56:25,758] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:56:25,791] {logging_mixin.py:104} INFO - [2021-07-04 02:56:25,791] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:56:25.789440+00:00
+[2021-07-04 02:56:25,806] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.143 seconds
+[2021-07-04 02:56:56,732] {scheduler_job.py:182} INFO - Started process (PID=9864) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:56,736] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:56:56,739] {logging_mixin.py:104} INFO - [2021-07-04 02:56:56,739] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:56,776] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:56:56,810] {logging_mixin.py:104} INFO - [2021-07-04 02:56:56,810] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:56:56,843] {logging_mixin.py:104} INFO - [2021-07-04 02:56:56,843] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:56:56.841521+00:00
+[2021-07-04 02:56:56,858] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 02:57:27,813] {scheduler_job.py:182} INFO - Started process (PID=9891) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:27,817] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:57:27,820] {logging_mixin.py:104} INFO - [2021-07-04 02:57:27,819] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:27,856] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:27,892] {logging_mixin.py:104} INFO - [2021-07-04 02:57:27,892] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:57:27,926] {logging_mixin.py:104} INFO - [2021-07-04 02:57:27,926] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:57:27.924393+00:00
+[2021-07-04 02:57:27,941] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.137 seconds
+[2021-07-04 02:57:58,809] {scheduler_job.py:182} INFO - Started process (PID=9918) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:58,814] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:57:58,817] {logging_mixin.py:104} INFO - [2021-07-04 02:57:58,816] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:58,853] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:57:58,889] {logging_mixin.py:104} INFO - [2021-07-04 02:57:58,888] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:57:58,921] {logging_mixin.py:104} INFO - [2021-07-04 02:57:58,921] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:57:58.919863+00:00
+[2021-07-04 02:57:58,936] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.136 seconds
+[2021-07-04 02:58:29,755] {scheduler_job.py:182} INFO - Started process (PID=9944) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:58:29,759] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:58:29,761] {logging_mixin.py:104} INFO - [2021-07-04 02:58:29,761] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:58:29,798] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:58:29,837] {logging_mixin.py:104} INFO - [2021-07-04 02:58:29,836] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:58:29,870] {logging_mixin.py:104} INFO - [2021-07-04 02:58:29,869] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:58:29.868107+00:00
+[2021-07-04 02:58:29,885] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.136 seconds
+[2021-07-04 02:59:00,720] {scheduler_job.py:182} INFO - Started process (PID=9971) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:00,726] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:59:00,728] {logging_mixin.py:104} INFO - [2021-07-04 02:59:00,728] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:00,765] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:00,805] {logging_mixin.py:104} INFO - [2021-07-04 02:59:00,805] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:59:00,842] {logging_mixin.py:104} INFO - [2021-07-04 02:59:00,841] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:59:00.840227+00:00
+[2021-07-04 02:59:00,858] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.146 seconds
+[2021-07-04 02:59:31,669] {scheduler_job.py:182} INFO - Started process (PID=9998) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:31,674] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 02:59:31,677] {logging_mixin.py:104} INFO - [2021-07-04 02:59:31,677] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:31,718] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 02:59:31,757] {logging_mixin.py:104} INFO - [2021-07-04 02:59:31,757] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 02:59:31,794] {logging_mixin.py:104} INFO - [2021-07-04 02:59:31,794] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 02:59:31.792863+00:00
+[2021-07-04 02:59:31,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.152 seconds
+[2021-07-04 03:00:02,747] {scheduler_job.py:182} INFO - Started process (PID=10025) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:02,750] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:00:02,752] {logging_mixin.py:104} INFO - [2021-07-04 03:00:02,751] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:02,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:02,823] {logging_mixin.py:104} INFO - [2021-07-04 03:00:02,823] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:00:02,857] {logging_mixin.py:104} INFO - [2021-07-04 03:00:02,856] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:00:02.854967+00:00
+[2021-07-04 03:00:02,876] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.134 seconds
+[2021-07-04 03:00:33,821] {scheduler_job.py:182} INFO - Started process (PID=10052) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:33,826] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:00:33,829] {logging_mixin.py:104} INFO - [2021-07-04 03:00:33,828] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:33,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:00:33,907] {logging_mixin.py:104} INFO - [2021-07-04 03:00:33,906] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:00:33,943] {logging_mixin.py:104} INFO - [2021-07-04 03:00:33,942] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:00:33.940970+00:00
+[2021-07-04 03:00:33,959] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.147 seconds
+[2021-07-04 03:01:04,761] {scheduler_job.py:182} INFO - Started process (PID=10079) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:04,764] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:01:04,766] {logging_mixin.py:104} INFO - [2021-07-04 03:01:04,766] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:04,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:04,839] {logging_mixin.py:104} INFO - [2021-07-04 03:01:04,839] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:01:04,876] {logging_mixin.py:104} INFO - [2021-07-04 03:01:04,876] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:01:04.874579+00:00
+[2021-07-04 03:01:04,893] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.138 seconds
+[2021-07-04 03:01:35,657] {scheduler_job.py:182} INFO - Started process (PID=10107) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:35,661] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:01:35,663] {logging_mixin.py:104} INFO - [2021-07-04 03:01:35,663] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:35,702] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:01:35,742] {logging_mixin.py:104} INFO - [2021-07-04 03:01:35,742] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:01:35,778] {logging_mixin.py:104} INFO - [2021-07-04 03:01:35,777] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:01:35.775619+00:00
+[2021-07-04 03:01:35,793] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.144 seconds
+[2021-07-04 03:02:06,665] {scheduler_job.py:182} INFO - Started process (PID=10135) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:06,669] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:02:06,674] {logging_mixin.py:104} INFO - [2021-07-04 03:02:06,673] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:06,720] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:06,758] {logging_mixin.py:104} INFO - [2021-07-04 03:02:06,758] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:02:06,798] {logging_mixin.py:104} INFO - [2021-07-04 03:02:06,797] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:02:06.795561+00:00
+[2021-07-04 03:02:06,812] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.156 seconds
+[2021-07-04 03:02:37,770] {scheduler_job.py:182} INFO - Started process (PID=10162) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:37,775] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:02:37,778] {logging_mixin.py:104} INFO - [2021-07-04 03:02:37,777] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:37,826] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:02:37,869] {logging_mixin.py:104} INFO - [2021-07-04 03:02:37,869] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:02:37,903] {logging_mixin.py:104} INFO - [2021-07-04 03:02:37,902] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:02:37.900952+00:00
+[2021-07-04 03:02:37,917] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.156 seconds
+[2021-07-04 03:03:08,764] {scheduler_job.py:182} INFO - Started process (PID=10188) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:08,769] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:03:08,772] {logging_mixin.py:104} INFO - [2021-07-04 03:03:08,771] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:08,818] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:08,859] {logging_mixin.py:104} INFO - [2021-07-04 03:03:08,858] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:03:08,893] {logging_mixin.py:104} INFO - [2021-07-04 03:03:08,892] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:03:08.891205+00:00
+[2021-07-04 03:03:08,908] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.153 seconds
+[2021-07-04 03:03:39,811] {scheduler_job.py:182} INFO - Started process (PID=10214) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:39,816] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:03:39,819] {logging_mixin.py:104} INFO - [2021-07-04 03:03:39,818] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:39,862] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:03:39,902] {logging_mixin.py:104} INFO - [2021-07-04 03:03:39,901] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:03:39,936] {logging_mixin.py:104} INFO - [2021-07-04 03:03:39,935] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:03:39.934011+00:00
+[2021-07-04 03:03:39,951] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.148 seconds
+[2021-07-04 03:04:10,730] {scheduler_job.py:182} INFO - Started process (PID=10240) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:10,735] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:04:10,739] {logging_mixin.py:104} INFO - [2021-07-04 03:04:10,738] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:10,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:10,828] {logging_mixin.py:104} INFO - [2021-07-04 03:04:10,828] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:04:10,864] {logging_mixin.py:104} INFO - [2021-07-04 03:04:10,863] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:04:10.861884+00:00
+[2021-07-04 03:04:10,881] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.160 seconds
+[2021-07-04 03:04:41,780] {scheduler_job.py:182} INFO - Started process (PID=10267) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:41,785] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:04:41,787] {logging_mixin.py:104} INFO - [2021-07-04 03:04:41,787] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:41,831] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:04:41,878] {logging_mixin.py:104} INFO - [2021-07-04 03:04:41,878] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:04:41,912] {logging_mixin.py:104} INFO - [2021-07-04 03:04:41,912] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:04:41.910030+00:00
+[2021-07-04 03:04:41,929] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.156 seconds
+[2021-07-04 03:05:12,838] {scheduler_job.py:182} INFO - Started process (PID=10294) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:12,844] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:05:12,847] {logging_mixin.py:104} INFO - [2021-07-04 03:05:12,847] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:12,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:12,953] {logging_mixin.py:104} INFO - [2021-07-04 03:05:12,953] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:05:12,991] {logging_mixin.py:104} INFO - [2021-07-04 03:05:12,991] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:05:12.989294+00:00
+[2021-07-04 03:05:13,009] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.181 seconds
+[2021-07-04 03:05:43,872] {scheduler_job.py:182} INFO - Started process (PID=10321) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:43,876] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:05:43,878] {logging_mixin.py:104} INFO - [2021-07-04 03:05:43,878] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:43,921] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:05:43,962] {logging_mixin.py:104} INFO - [2021-07-04 03:05:43,962] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:05:43,998] {logging_mixin.py:104} INFO - [2021-07-04 03:05:43,997] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:05:43.995628+00:00
+[2021-07-04 03:05:44,016] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.150 seconds
+[2021-07-04 03:06:14,957] {scheduler_job.py:182} INFO - Started process (PID=10346) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:14,961] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:06:14,965] {logging_mixin.py:104} INFO - [2021-07-04 03:06:14,965] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:15,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:15,059] {logging_mixin.py:104} INFO - [2021-07-04 03:06:15,059] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:06:15,099] {logging_mixin.py:104} INFO - [2021-07-04 03:06:15,099] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:06:15.097456+00:00
+[2021-07-04 03:06:15,118] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.169 seconds
+[2021-07-04 03:06:45,937] {scheduler_job.py:182} INFO - Started process (PID=10384) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:45,941] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:06:45,944] {logging_mixin.py:104} INFO - [2021-07-04 03:06:45,943] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:46,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:06:46,073] {logging_mixin.py:104} INFO - [2021-07-04 03:06:46,073] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:06:46,112] {logging_mixin.py:104} INFO - [2021-07-04 03:06:46,112] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:06:46.109623+00:00
+[2021-07-04 03:06:46,129] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.198 seconds
+[2021-07-04 03:07:17,082] {scheduler_job.py:182} INFO - Started process (PID=10411) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:17,086] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:07:17,088] {logging_mixin.py:104} INFO - [2021-07-04 03:07:17,088] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:17,133] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:17,180] {logging_mixin.py:104} INFO - [2021-07-04 03:07:17,180] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:07:17,214] {logging_mixin.py:104} INFO - [2021-07-04 03:07:17,213] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:07:17.212058+00:00
+[2021-07-04 03:07:17,230] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.154 seconds
+[2021-07-04 03:07:48,054] {scheduler_job.py:182} INFO - Started process (PID=10441) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:48,057] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:07:48,059] {logging_mixin.py:104} INFO - [2021-07-04 03:07:48,058] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:48,103] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:07:48,154] {logging_mixin.py:104} INFO - [2021-07-04 03:07:48,153] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:07:48,191] {logging_mixin.py:104} INFO - [2021-07-04 03:07:48,191] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:07:48.188822+00:00
+[2021-07-04 03:07:48,210] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.162 seconds
+[2021-07-04 03:08:19,038] {scheduler_job.py:182} INFO - Started process (PID=10469) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:19,043] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:08:19,046] {logging_mixin.py:104} INFO - [2021-07-04 03:08:19,045] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:19,088] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:19,135] {logging_mixin.py:104} INFO - [2021-07-04 03:08:19,134] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:08:19,168] {logging_mixin.py:104} INFO - [2021-07-04 03:08:19,168] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:08:19.166086+00:00
+[2021-07-04 03:08:19,185] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.155 seconds
+[2021-07-04 03:08:50,063] {scheduler_job.py:182} INFO - Started process (PID=10499) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:50,067] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:08:50,071] {logging_mixin.py:104} INFO - [2021-07-04 03:08:50,070] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:50,116] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:08:50,166] {logging_mixin.py:104} INFO - [2021-07-04 03:08:50,166] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:08:50,205] {logging_mixin.py:104} INFO - [2021-07-04 03:08:50,204] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:08:50.202200+00:00
+[2021-07-04 03:08:50,222] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.167 seconds
+[2021-07-04 03:09:21,030] {scheduler_job.py:182} INFO - Started process (PID=10527) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:21,033] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:09:21,035] {logging_mixin.py:104} INFO - [2021-07-04 03:09:21,035] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:21,078] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:21,124] {logging_mixin.py:104} INFO - [2021-07-04 03:09:21,123] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:09:21,161] {logging_mixin.py:104} INFO - [2021-07-04 03:09:21,161] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:09:21.157552+00:00
+[2021-07-04 03:09:21,206] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.183 seconds
+[2021-07-04 03:09:52,101] {scheduler_job.py:182} INFO - Started process (PID=10555) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:52,105] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:09:52,109] {logging_mixin.py:104} INFO - [2021-07-04 03:09:52,108] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:52,154] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:09:52,201] {logging_mixin.py:104} INFO - [2021-07-04 03:09:52,201] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:09:52,235] {logging_mixin.py:104} INFO - [2021-07-04 03:09:52,235] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:09:52.233449+00:00
+[2021-07-04 03:09:52,251] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.159 seconds
+[2021-07-04 03:10:23,093] {scheduler_job.py:182} INFO - Started process (PID=10582) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:23,098] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:10:23,101] {logging_mixin.py:104} INFO - [2021-07-04 03:10:23,100] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:23,148] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:23,198] {logging_mixin.py:104} INFO - [2021-07-04 03:10:23,197] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:10:23,231] {logging_mixin.py:104} INFO - [2021-07-04 03:10:23,231] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:10:23.229518+00:00
+[2021-07-04 03:10:23,246] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.161 seconds
+[2021-07-04 03:10:54,062] {scheduler_job.py:182} INFO - Started process (PID=10609) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:54,067] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:10:54,070] {logging_mixin.py:104} INFO - [2021-07-04 03:10:54,069] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:54,115] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:10:54,162] {logging_mixin.py:104} INFO - [2021-07-04 03:10:54,161] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:10:54,196] {logging_mixin.py:104} INFO - [2021-07-04 03:10:54,195] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:10:54.193839+00:00
+[2021-07-04 03:10:54,211] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.156 seconds
+[2021-07-04 03:11:25,083] {scheduler_job.py:182} INFO - Started process (PID=10634) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:25,088] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:11:25,092] {logging_mixin.py:104} INFO - [2021-07-04 03:11:25,091] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:25,138] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:25,187] {logging_mixin.py:104} INFO - [2021-07-04 03:11:25,187] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:11:25,221] {logging_mixin.py:104} INFO - [2021-07-04 03:11:25,221] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:11:25.219270+00:00
+[2021-07-04 03:11:25,239] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.164 seconds
+[2021-07-04 03:11:56,054] {scheduler_job.py:182} INFO - Started process (PID=10661) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:56,058] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:11:56,060] {logging_mixin.py:104} INFO - [2021-07-04 03:11:56,060] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:56,103] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:11:56,150] {logging_mixin.py:104} INFO - [2021-07-04 03:11:56,149] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:11:56,186] {logging_mixin.py:104} INFO - [2021-07-04 03:11:56,185] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:11:56.183801+00:00
+[2021-07-04 03:11:56,201] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.154 seconds
+[2021-07-04 03:12:27,151] {scheduler_job.py:182} INFO - Started process (PID=10688) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:27,156] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:12:27,159] {logging_mixin.py:104} INFO - [2021-07-04 03:12:27,158] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:27,206] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:27,252] {logging_mixin.py:104} INFO - [2021-07-04 03:12:27,252] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:12:27,285] {logging_mixin.py:104} INFO - [2021-07-04 03:12:27,285] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:12:27.283644+00:00
+[2021-07-04 03:12:27,301] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.159 seconds
+[2021-07-04 03:12:58,157] {scheduler_job.py:182} INFO - Started process (PID=10714) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:58,161] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:12:58,164] {logging_mixin.py:104} INFO - [2021-07-04 03:12:58,163] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:58,210] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:12:58,258] {logging_mixin.py:104} INFO - [2021-07-04 03:12:58,257] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:12:58,293] {logging_mixin.py:104} INFO - [2021-07-04 03:12:58,293] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:12:58.291427+00:00
+[2021-07-04 03:12:58,308] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.157 seconds
+[2021-07-04 03:13:29,095] {scheduler_job.py:182} INFO - Started process (PID=10740) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:13:29,100] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:13:29,103] {logging_mixin.py:104} INFO - [2021-07-04 03:13:29,103] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:13:29,147] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:13:29,197] {logging_mixin.py:104} INFO - [2021-07-04 03:13:29,197] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:13:29,232] {logging_mixin.py:104} INFO - [2021-07-04 03:13:29,231] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:13:29.229596+00:00
+[2021-07-04 03:13:29,249] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.163 seconds
+[2021-07-04 03:14:00,185] {scheduler_job.py:182} INFO - Started process (PID=10768) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:00,191] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:14:00,194] {logging_mixin.py:104} INFO - [2021-07-04 03:14:00,193] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:00,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:00,325] {logging_mixin.py:104} INFO - [2021-07-04 03:14:00,324] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:14:00,361] {logging_mixin.py:104} INFO - [2021-07-04 03:14:00,361] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:14:00.359087+00:00
+[2021-07-04 03:14:00,378] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.203 seconds
+[2021-07-04 03:14:31,306] {scheduler_job.py:182} INFO - Started process (PID=10795) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:31,311] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:14:31,314] {logging_mixin.py:104} INFO - [2021-07-04 03:14:31,313] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:31,362] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:14:31,410] {logging_mixin.py:104} INFO - [2021-07-04 03:14:31,409] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:14:31,446] {logging_mixin.py:104} INFO - [2021-07-04 03:14:31,445] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:14:31.443628+00:00
+[2021-07-04 03:14:31,461] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.163 seconds
+[2021-07-04 03:15:02,303] {scheduler_job.py:182} INFO - Started process (PID=10823) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:02,307] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:15:02,310] {logging_mixin.py:104} INFO - [2021-07-04 03:15:02,309] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:02,355] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:02,401] {logging_mixin.py:104} INFO - [2021-07-04 03:15:02,401] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:15:02,435] {logging_mixin.py:104} INFO - [2021-07-04 03:15:02,435] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:15:02.433044+00:00
+[2021-07-04 03:15:02,451] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.155 seconds
+[2021-07-04 03:15:33,351] {scheduler_job.py:182} INFO - Started process (PID=10851) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:33,355] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:15:33,358] {logging_mixin.py:104} INFO - [2021-07-04 03:15:33,357] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:33,404] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:15:33,451] {logging_mixin.py:104} INFO - [2021-07-04 03:15:33,451] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:15:33,485] {logging_mixin.py:104} INFO - [2021-07-04 03:15:33,485] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:15:33.482912+00:00
+[2021-07-04 03:15:33,504] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.161 seconds
+[2021-07-04 03:16:04,353] {scheduler_job.py:182} INFO - Started process (PID=10878) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:04,358] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:16:04,361] {logging_mixin.py:104} INFO - [2021-07-04 03:16:04,360] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:04,411] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:04,457] {logging_mixin.py:104} INFO - [2021-07-04 03:16:04,457] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:16:04,492] {logging_mixin.py:104} INFO - [2021-07-04 03:16:04,491] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:16:04.489390+00:00
+[2021-07-04 03:16:04,507] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.163 seconds
+[2021-07-04 03:16:35,344] {scheduler_job.py:182} INFO - Started process (PID=10906) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:35,347] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:16:35,351] {logging_mixin.py:104} INFO - [2021-07-04 03:16:35,351] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:35,399] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:16:35,455] {logging_mixin.py:104} INFO - [2021-07-04 03:16:35,455] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:16:35,494] {logging_mixin.py:104} INFO - [2021-07-04 03:16:35,493] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:16:35.491472+00:00
+[2021-07-04 03:16:35,512] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.174 seconds
+[2021-07-04 03:17:06,349] {scheduler_job.py:182} INFO - Started process (PID=10934) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:06,354] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:17:06,358] {logging_mixin.py:104} INFO - [2021-07-04 03:17:06,358] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:06,405] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:06,453] {logging_mixin.py:104} INFO - [2021-07-04 03:17:06,453] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:17:06,487] {logging_mixin.py:104} INFO - [2021-07-04 03:17:06,487] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:17:06.485272+00:00
+[2021-07-04 03:17:06,504] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.164 seconds
+[2021-07-04 03:17:37,519] {scheduler_job.py:182} INFO - Started process (PID=10962) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:37,523] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:17:37,526] {logging_mixin.py:104} INFO - [2021-07-04 03:17:37,525] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:37,577] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:17:37,625] {logging_mixin.py:104} INFO - [2021-07-04 03:17:37,625] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:17:37,658] {logging_mixin.py:104} INFO - [2021-07-04 03:17:37,658] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:17:37.656447+00:00
+[2021-07-04 03:17:37,675] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.164 seconds
+[2021-07-04 03:18:08,659] {scheduler_job.py:182} INFO - Started process (PID=10991) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:08,663] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:18:08,666] {logging_mixin.py:104} INFO - [2021-07-04 03:18:08,666] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:08,713] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:08,763] {logging_mixin.py:104} INFO - [2021-07-04 03:18:08,762] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:18:08,798] {logging_mixin.py:104} INFO - [2021-07-04 03:18:08,798] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:18:08.795320+00:00
+[2021-07-04 03:18:08,817] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.165 seconds
+[2021-07-04 03:18:39,749] {scheduler_job.py:182} INFO - Started process (PID=11018) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:39,754] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:18:39,756] {logging_mixin.py:104} INFO - [2021-07-04 03:18:39,756] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:39,804] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:18:39,853] {logging_mixin.py:104} INFO - [2021-07-04 03:18:39,853] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:18:39,891] {logging_mixin.py:104} INFO - [2021-07-04 03:18:39,890] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:18:39.888579+00:00
+[2021-07-04 03:18:39,907] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.166 seconds
+[2021-07-04 03:19:10,826] {scheduler_job.py:182} INFO - Started process (PID=11047) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:10,829] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:19:10,831] {logging_mixin.py:104} INFO - [2021-07-04 03:19:10,831] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:10,878] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:10,926] {logging_mixin.py:104} INFO - [2021-07-04 03:19:10,925] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:19:10,960] {logging_mixin.py:104} INFO - [2021-07-04 03:19:10,960] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:19:10.957924+00:00
+[2021-07-04 03:19:10,978] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.158 seconds
+[2021-07-04 03:19:41,888] {scheduler_job.py:182} INFO - Started process (PID=11075) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:41,893] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:19:41,896] {logging_mixin.py:104} INFO - [2021-07-04 03:19:41,895] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:41,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:19:41,993] {logging_mixin.py:104} INFO - [2021-07-04 03:19:41,993] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:19:42,029] {logging_mixin.py:104} INFO - [2021-07-04 03:19:42,029] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:19:42.027143+00:00
+[2021-07-04 03:19:42,048] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.169 seconds
+[2021-07-04 03:20:12,175] {scheduler_job.py:182} INFO - Started process (PID=11101) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:12,179] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:20:12,181] {logging_mixin.py:104} INFO - [2021-07-04 03:20:12,181] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:12,226] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:12,281] {logging_mixin.py:104} INFO - [2021-07-04 03:20:12,281] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:20:12,315] {logging_mixin.py:104} INFO - [2021-07-04 03:20:12,315] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:20:12.313434+00:00
+[2021-07-04 03:20:12,330] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.162 seconds
+[2021-07-04 03:20:42,531] {scheduler_job.py:182} INFO - Started process (PID=11127) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:42,535] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:20:42,538] {logging_mixin.py:104} INFO - [2021-07-04 03:20:42,537] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:42,587] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:20:42,647] {logging_mixin.py:104} INFO - [2021-07-04 03:20:42,646] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:20:42,686] {logging_mixin.py:104} INFO - [2021-07-04 03:20:42,686] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:20:42.683300+00:00
+[2021-07-04 03:20:42,702] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.179 seconds
+[2021-07-04 03:21:13,112] {scheduler_job.py:182} INFO - Started process (PID=11154) to work on /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:21:13,117] {scheduler_job.py:629} INFO - Processing file /opt/airflow/dags/learn_dags.py for tasks to queue
+[2021-07-04 03:21:13,120] {logging_mixin.py:104} INFO - [2021-07-04 03:21:13,120] {dagbag.py:448} INFO - Filling up the DagBag from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:21:13,168] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['super_simple_dag']) retrieved from /opt/airflow/dags/learn_dags.py
+[2021-07-04 03:21:13,225] {logging_mixin.py:104} INFO - [2021-07-04 03:21:13,225] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-07-04 03:21:13,260] {logging_mixin.py:104} INFO - [2021-07-04 03:21:13,259] {dag.py:2273} INFO - Setting next_dagrun for super_simple_dag to 2021-07-03 03:21:13.257464+00:00
+[2021-07-04 03:21:13,277] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/learn_dags.py took 0.172 seconds
